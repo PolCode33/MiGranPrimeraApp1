@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiGranPrimeraApp1</string>
+    <string name="drawer_open">abierto</string>
+    <string name="drawer_close">cerrado</string>
 </resources>
